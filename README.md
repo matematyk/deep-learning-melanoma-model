@@ -2,7 +2,7 @@
 
 # res: https://keras.io/examples/keras_recipes/tfrecord/
 
-## Installaction dataset:
+## Installation dataset:
 
 * Create kaggle.json
 copy into ```/home/<user>/.kaggle```
@@ -18,7 +18,7 @@ Url:
 https://www.kaggle.com/c/siim-isic-melanoma-classification/data?select=test
 
 
-## A problem with version tensorflow
+## A problem with tensorflow version:
 
 ```python
 import tensorflow as tf
